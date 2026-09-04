@@ -1,0 +1,15 @@
+{
+	"name": "ucbsisger69514272",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "chilecentral",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "ff794c27-5548-42d0-99ce-c49e656bf020",
+		"tenantId": "cc28633f-12b8-46cb-bc15-951dae239b4d"
+	}
+}
